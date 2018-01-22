@@ -61,4 +61,4 @@ Where can you find our course textbook?
 > It is freely avalible online.
 
 When are you free during my scheduled office hours?
-> M at 10am
+> Monday at 10am as well as several other times.
