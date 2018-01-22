@@ -4,27 +4,35 @@ Fill in the text below with your own answers to each question. Each person in yo
 ## About You
 What are your names as they appear on the class roster?
 > ...
+Matthew Murphy
 
 What do you prefer to be called?
 > ...
+Matt
 
 What are your GitHub usernames?
 > ...
+murphyma
 
 Why are you taking this course?
 > ...
+To learn about parallelism and concurrency as well as the hardware-software interface.
 
 Do you have any concerns about this course?
 > ...
+No concerns.
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
 > ...
+Distributed Systems and Models of Concurrency.
 
 Do you have any questions about the course?
 > ...
+Will we have any chance to cover file system security?
 
 Do you have any other questions for me?
 > ...
+What was your favorite lab to design?
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
