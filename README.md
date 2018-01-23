@@ -12,7 +12,7 @@ Matt
 
 What are your GitHub usernames?
 > ...
-murphyma
+murphymatt
 
 Why are you taking this course?
 > ...
