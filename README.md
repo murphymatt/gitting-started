@@ -3,54 +3,62 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names as they appear on the class roster?
-> ...
-Matthew Murphy
+>M: Matthew Murphy
+
+>C: Cameron Chen
 
 What do you prefer to be called?
-> ...
-Matt
+>M: Matt
+
+>C: Cameron
 
 What are your GitHub usernames?
-> ...
-murphymatt
+>M: murphymatt
+
+>C: Cameronqc
 
 Why are you taking this course?
-> ...
-To learn about parallelism and concurrency as well as the hardware-software interface.
+>M: To learn about parallelism and concurrency as well as the hardware-software interface.
+
+>C: To learn more about how programing works on computers and other devices. 
 
 Do you have any concerns about this course?
-> ...
-No concerns.
+>M: No concerns.
+
+>C: I am a little worried about my course load.
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
-> ...
-Distributed Systems and Models of Concurrency.
+>M: Distributed Systems and Models of Concurrency.
+
+>C: I am interested in learning more about concurrent programming.
 
 Do you have any questions about the course?
-> ...
-Will we have any chance to cover file system security?
+>M: Will we have any chance to cover file system security?
+
+>C: Why did you opt to have no tests or quizs as part of this course?
 
 Do you have any other questions for me?
-> ...
-What was your favorite lab to design?
+>M: What was your favorite lab to design?
+
+>C: What are your favorite parts of this course?
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
 
 What work will contribute to your grade in this class?
-> ...
+> Attendence, Partisipation, Assignments, Labs, Project
 
 What happens if you miss a day of class because you are sick or your alarm doesn't go off?
-> ...
+> There is no penalty for missing regular days assuming all work is turned in, however missing labs will inccur a 20% penalty on the lab.
 
 What happens if you turn in a lab late?
-> ...
+> You will lose one leter grade on the lab for each day late.
 
 On what day will you give a presentation on your final project for this course?
-> ...
+> Project Report is on May 11th.
 
 Where can you find our course textbook?
-> ...
+> It is freely avalible online.
 
 When are you free during my scheduled office hours?
-> ...
+> Monday at 10am as well as several other times.
